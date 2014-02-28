@@ -319,6 +319,7 @@
       - compute
       - cinder
       - ceph-osd
+      - mongo
     roles_metadata:
       ceph-osd:
         name: "Storage - Ceph OSD"
